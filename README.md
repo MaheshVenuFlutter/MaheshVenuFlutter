@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahesh Venu</h1>
 <h3 align="center">Creative Flutter Developer with 1.6 Years of Experience as a Freelancer</h3>
 
-
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350">
+  
+</p>
 
 - 🔭 I’m currently working on [Super Foodie](https://play.google.com/store/apps/details?id=in.sbcesports.Food_User_App)
 
