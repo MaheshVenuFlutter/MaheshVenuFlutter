@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Super Foodie](https://play.google.com/store/apps/details?id=in.sbcesports.Food_User_App)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Mahesh+Venu](https://play.google.com/store/apps/developer?id=Mahesh+Venu)
 
