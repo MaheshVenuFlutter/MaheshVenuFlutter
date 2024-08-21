@@ -7,12 +7,12 @@
 
 - 💼 I’m currently working at [salesgo](https://www.salesgo.com/) as Frontend Developer.
   
-- 🔧 I’m contributing to the ongoing development and improvement of [salesgo](https://play.google.com/store/search?q=salesgo+3.0&c=apps) app available on both Android and iOS and also web
+- 🔧 I’m contributing to the ongoing development and improvement of [salesgo](https://play.google.com/store/search?q=salesgo+3.0&c=apps) app available on both Android and iOS and web
      [Dashboard](https://dashboard.salesgo.com/)
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Mahesh+Venu](https://play.google.com/store/apps/developer?id=Mahesh+Venu)
+- 👨‍💻 All of my projects are available at [ Google Play Store account ](https://play.google.com/store/apps/developer?id=Mahesh+Venu)
 
 - 📫 How to reach me **maheshvenu.flutter@gmail.com**
 
