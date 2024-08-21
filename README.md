@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working at [salesgo](https://www.salesgo.com/) as Frontend Developer.
   
-- 🔧 I’m contributing to the ongoing development and improvement of [salesgo](https://play.google.com/store/search?q=salesgo+3.0&c=apps)
+- 🔧 I’m contributing to the ongoing development and improvement of [salesgo](https://play.google.com/store/search?q=salesgo+3.0&c=apps) app available on both Android and iOS and also 
+     [Dashboard](https://dashboard.salesgo.com/)
 
 - 🌱 I’m currently learning **python**
 
