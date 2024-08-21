@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Venu</h1>
-<h3 align="center">Creative Flutter Developer with 3.7 Years of Experience as a Freelancer</h3>
+<h3 align="center">Creative Flutter Developer with 3.7 Years of Experience</h3>
 
 
   <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350">
